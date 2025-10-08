@@ -1,0 +1,14 @@
+[
+  {
+    "nombre_ubicacion": "Zona 1 de prueba",
+    "velocidad_maxima": 80,
+    "recta_inferior": {
+      "m": 0.5278514588859,
+      "b": -109.2504741644562
+    },
+    "recta_superior": {
+      "m": 0.5278514588859,
+      "b": -109.2504236074271
+    }
+  }
+]
