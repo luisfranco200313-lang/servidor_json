@@ -3,15 +3,24 @@
     "nombre_ubicacion": "Zona 1 de prueba",
     "velocidad_maxima": 80,
     "recta_inferior": {
-      "m": 0.5278514588859,
-      "b": -109.2504741644562
+      "m": 1.894472361809,
+      "b": 206.9720038190955
     },
     "recta_superior": {
-      "m": 0.5278514588859,
-      "b": -109.2504236074271
+      "m": 1.894472361809,
+      "b": 206.971908040201
+    }
+  },
+  {
+    "nombre_ubicacion": "Zona 2 de prueba",
+    "velocidad_maxima": 60,
+    "recta_inferior": {
+      "m": -0.4829268292683,
+      "b": -28.4259815609756
+    },
+    "recta_superior": {
+      "m": -0.4829268292683,
+      "b": -28.4260312195122
     }
   }
-  { Hola: pinche putita
-  }
 ]
-
