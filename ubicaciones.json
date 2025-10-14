@@ -34,5 +34,17 @@
       "m": 1.927374301676,
       "b": 210.2308877094972
     }
+  },
+  {
+    "nombre_ubicacion": "Calzada Ignacio Zaragoza - Carriles Centrales",
+    "velocidad_maxima": 80,
+    "recta_inferior": {
+      "m": -0.724744305793714,
+      "b": -52.389019124402100 
+    },
+    "recta_superior": {
+      "m": -0.718824758120484,
+      "b": 51.802403146134700
+    }
   }
 ]
