@@ -24,18 +24,6 @@
     }
   },
   {
-    "nombre_ubicacion": "Casa de Naim",
-    "velocidad_maxima": 80,
-    "recta_inferior": {
-      "m": 1.8985507246377,
-      "b": 207.3758294202899
-    },
-    "recta_superior": {
-      "m": 1.927374301676,
-      "b": 210.2308877094972
-    }
-  },
-  {
     "nombre_ubicacion": "Calzada Ignacio Zaragoza - Carriles Centrales",
     "velocidad_maxima": 80,
     "recta_inferior": {
