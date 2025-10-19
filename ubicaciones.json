@@ -13,7 +13,7 @@
   },
   {
     "nombre_ubicacion": "Zona 2 de prueba",
-    "velocidad_maxima": 60,
+    "velocidad_maxima": 40,
     "recta_inferior": {
       "m": -0.4663461538462,
       "b": -26.7840154326923
