@@ -36,7 +36,7 @@
     }
   },
   {
-    "nombre_ubicacion": "Calzada Ignacio Zaragoza - Carril Lateal Direccion Aereopuerto",
+    "nombre_ubicacion": "Calzada Ignacio Zaragoza - Carril Lateral Direccion Aereopuerto",
     "velocidad_maxima": 40,
     "recta_inferior": {
       "m": -0.745390613575114,
@@ -60,7 +60,7 @@
     }
   },
   {
-    "nombre_ubicacion": "Calzada Ignacio Zaragoza - Carril Lateal",
+    "nombre_ubicacion": "Calzada Ignacio Zaragoza - Carril Lateral",
     "velocidad_maxima": 40,
     "recta_inferior": {
       "m": -0.573231814901740,
