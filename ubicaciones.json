@@ -48,7 +48,7 @@
     }
   },
     {
-    "nombre_ubicacion": "Calzada Ignacio Zaragoza - Carriles Centrales",
+    "nombre_ubicacion": "Calzada Ignacio Zaragoza - Carril Central",
     "velocidad_maxima": 80,
     "recta_inferior": {
       "m": -0.572970019617956,
@@ -60,7 +60,7 @@
     }
   },
   {
-    "nombre_ubicacion": "Calzada Ignacio Zaragoza - Carril Lateal Direccion Aereopuerto",
+    "nombre_ubicacion": "Calzada Ignacio Zaragoza - Carril Lateal",
     "velocidad_maxima": 40,
     "recta_inferior": {
       "m": -0.573231814901740,
