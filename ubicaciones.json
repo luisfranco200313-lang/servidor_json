@@ -2,49 +2,59 @@
   {
     "nombre_ubicacion": "Zona 1 de prueba",
     "velocidad_maxima": 80,
-    "recta_inferior": {
-      "m": 1.9479166666667,
-      "b": 212.2648979166666
-    },
-    "recta_superior": {
-      "m": 1.9585492227979,
-      "b": 213.3154822279792
-    }
+    "recta_inferior": { "m": 1.894472361809, "b": 206.9720038190955 },
+    "recta_superior": { "m": 1.894472361809, "b": 206.971908040201 }
   },
   {
     "nombre_ubicacion": "Zona 2 de prueba",
-    "velocidad_maxima": 40,
-    "recta_inferior": {
-      "m": -0.4663461538462,
-      "b": -26.7840154326923
-    },
-    "recta_superior": {
-      "m": -0.4519230769231,
-      "b": -25.3565028846154
-    }
+    "velocidad_maxima": 60,
+    "recta_inferior": { "m": -0.4829268292683, "b": -28.4259815609756 },
+    "recta_superior": { "m": -0.4829268292683, "b": -28.4260312195122 }
   },
   {
-    "nombre_ubicacion": "Calzada Ignacio Zaragoza - Carril Central",
+    "nombre_ubicacion": "Casa de Naim",
     "velocidad_maxima": 80,
-    "recta_inferior": {
-      "m": -0.572970019617956,
-      "b": -37.3596082000983
-    },
-    "recta_superior": {
-      "m": -0.57323181490174,
-      "b": -37.384986971568
-    }
+    "recta_inferior": { "m": 1.8985507246377, "b": 207.3758294202899 },
+    "recta_superior": { "m": 1.927374301676, "b": 210.2308877094972 }
   },
   {
-    "nombre_ubicacion": "Calzada Ignacio Zaragoza - Carril Lateral",
+    "nombre_ubicacion": "Calzada Ignacio Zaragoza - Carriles Centrales",
+    "velocidad_maxima": 80,
+    "recta_inferior": { "m": -0.724744305793714, "b": -52.3890191244021 },
+    "recta_superior": { "m": -0.718824758120484, "b": -51.8024031461347 }
+  },
+  {
+    "nombre_ubicacion": "Calzada Ignacio Zaragoza - Carril Lateral Direccion Aeropuerto",
     "velocidad_maxima": 40,
-    "recta_inferior": {
-      "m": -0.57323181490174,
-      "b": -37.384986971568
+    "recta_inferior": { "m": -0.745390613575114, "b": -54.4324231725406 },
+    "recta_superior": { "m": -0.757182310813115, "b": -55.599757498198 }
+  },
+  {
+    "nombre_ubicacion": "Circuito Interior - Carriles Centrales (Curva)",
+    "velocidad_maxima": 80,
+    "tipo": "polinomio",
+    "x_rango": [-99.09762, -99.0913],
+    "curva_inferior": {
+      "escala": 1e16,
+      "coeficientes": {
+        "a5": 1.805885536,
+        "a4": 8.94770337003622e-4,
+        "a3": 0.0177334374701944,
+        "a2": 1.75729341610217,
+        "a1": 87.069417721974,
+        "a0": 1.72562724722413
+      }
     },
-    "recta_superior": {
-      "m": -0.5774027879677,
-      "b": -37.7967812839325
+    "curva_superior": {
+      "escala": 1e16,
+      "coeficientes": {
+        "a5": 2.080793280,
+        "a4": 0.00103097997720633,
+        "a3": 0.0204329708936972,
+        "a2": 2.0248031420361,
+        "a1": 100.323829177041,
+        "a0": 1.988831589885065
+      }
     }
   }
 ]
