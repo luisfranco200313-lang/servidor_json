@@ -1,35 +1,5 @@
 [
   {
-    "nombre_ubicacion": "Zona 1 de prueba",
-    "velocidad_maxima": 80,
-    "recta_inferior": { "m": 1.894472361809, "b": 206.9720038190955 },
-    "recta_superior": { "m": 1.894472361809, "b": 206.971908040201 }
-  },
-  {
-    "nombre_ubicacion": "Zona 2 de prueba",
-    "velocidad_maxima": 60,
-    "recta_inferior": { "m": -0.4829268292683, "b": -28.4259815609756 },
-    "recta_superior": { "m": -0.4829268292683, "b": -28.4260312195122 }
-  },
-  {
-    "nombre_ubicacion": "Casa de Naim",
-    "velocidad_maxima": 80,
-    "recta_inferior": { "m": 1.8985507246377, "b": 207.3758294202899 },
-    "recta_superior": { "m": 1.927374301676, "b": 210.2308877094972 }
-  },
-  {
-    "nombre_ubicacion": "Calzada Ignacio Zaragoza - Carriles Centrales",
-    "velocidad_maxima": 80,
-    "recta_inferior": { "m": -0.724744305793714, "b": -52.3890191244021 },
-    "recta_superior": { "m": -0.718824758120484, "b": -51.8024031461347 }
-  },
-  {
-    "nombre_ubicacion": "Calzada Ignacio Zaragoza - Carril Lateral Direccion Aeropuerto",
-    "velocidad_maxima": 40,
-    "recta_inferior": { "m": -0.745390613575114, "b": -54.4324231725406 },
-    "recta_superior": { "m": -0.757182310813115, "b": -55.599757498198 }
-  },
-  {
     "nombre_ubicacion": "Circuito Interior - Carriles Centrales (Curva)",
     "velocidad_maxima": 80,
     "tipo": "polinomio",
