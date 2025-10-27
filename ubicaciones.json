@@ -29,5 +29,53 @@
         "a0": 1988831.589885065
       }
     }
+  },
+  {
+    "nombre_ubicacion": "Zona 1 de prueba",
+    "velocidad_maxima": 80,
+    "recta_inferior": {
+      "m": 1.9479166666667,
+      "b": 212.2648979166666
+    },
+    "recta_superior": {
+      "m": 1.9585492227979,
+      "b": 213.3154822279792
+    }
+  },
+  {
+    "nombre_ubicacion": "Zona 2 de prueba",
+    "velocidad_maxima": 40,
+    "recta_inferior": {
+      "m": -0.4663461538462,
+      "b": -26.7840154326923
+    },
+    "recta_superior": {
+      "m": -0.4519230769231,
+      "b": -25.3565028846154
+    }
+  },
+  {
+    "nombre_ubicacion": "Calzada Ignacio Zaragoza - Carril Central",
+    "velocidad_maxima": 80,
+    "recta_inferior": {
+      "m": -0.572970019617956,
+      "b": -37.3596082000983
+    },
+    "recta_superior": {
+      "m": -0.57323181490174,
+      "b": -37.384986971568
+    }
+  },
+  {
+    "nombre_ubicacion": "Calzada Ignacio Zaragoza - Carril Lateral",
+    "velocidad_maxima": 40,
+    "recta_inferior": {
+      "m": -0.57323181490174,
+      "b": -37.384986971568
+    },
+    "recta_superior": {
+      "m": -0.5774027879677,
+      "b": -37.7967812839325
+    }
   }
 ]
