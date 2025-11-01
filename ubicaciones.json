@@ -1,33 +1,50 @@
 [
   {
-    "nombre_ubicacion": "Circuito Interior - Carriles Centrales (Curva)",
+    "nombre_ubicacion": "Zona 1 de prueba",
     "velocidad_maxima": 80,
-    "tipo": "polinomio",
-    "x_rango_min": -99.09762,
-    "x_rango_max": -99.0913,
-    "curva_inferior": {
-      "grado": 5,
-      "escala": 1e19,
-      "coeficientes": {
-        "a5": 1.805885536e-10,
-        "a4": 8.94770337003622e-8,
-        "a3": 1.77334374701944e-5,
-        "a2": 0.00175729341610217,
-        "a1": 0.087069417721974,
-        "a0": 1.72562724722413
-      }
+    "recta_inferior": {
+      "m": 1.9479166666667,
+      "b": 212.2648979166666
     },
-    "curva_superior": {
-      "grado": 5,
-      "escala": 1e19,
-      "coeficientes": {
-        "a5": 2.08079328e-10,
-        "a4": 1.03097997720633e-7,
-        "a3": 2.04329708936972e-5,
-        "a2": 0.0020248031420361,
-        "a1": 0.100323829177041,
-        "a0": 1.98831589885065
-      }
+    "recta_superior": {
+      "m": 1.9585492227979,
+      "b": 213.3154822279792
+    }
+  },
+  {
+    "nombre_ubicacion": "Zona 2 de prueba",
+    "velocidad_maxima": 40,
+    "recta_inferior": {
+      "m": -0.4663461538462,
+      "b": -26.7840154326923
+    },
+    "recta_superior": {
+      "m": -0.4519230769231,
+      "b": -25.3565028846154
+    }
+  },
+  {
+    "nombre_ubicacion": "Calzada Ignacio Zaragoza - Carril Central",
+    "velocidad_maxima": 80,
+    "recta_inferior": {
+      "m": -0.572970019617956,
+      "b": -37.3596082000983
+    },
+    "recta_superior": {
+      "m": -0.57323181490174,
+      "b": -37.384986971568
+    }
+  },
+  {
+    "nombre_ubicacion": "Calzada Ignacio Zaragoza - Carril Lateral",
+    "velocidad_maxima": 40,
+    "recta_inferior": {
+      "m": -0.57323181490174,
+      "b": -37.384986971568
+    },
+    "recta_superior": {
+      "m": -0.5774027879677,
+      "b": -37.7967812839325
     }
   }
 ]
