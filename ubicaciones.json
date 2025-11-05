@@ -21,37 +21,6 @@
       "grado": 5,
       "escala": 1e19,
       "coeficientes": {
-        "a5": 1.805885536e-10,
-        "a4": 8.94770337003622e-8,
-        "a3": 1.77334374701944e-5,
-        "a2": 0.00175729341610217,
-        "a1": 0.087069417721974,
-        "a0": 1.72562724722413
-      }
-    }
-  },
-  {
-    "nombre_ubicacion": "Circuito Interior - Carriles Laterales (Curva)",
-    "velocidad_maxima": 40,
-    "tipo": "polinomio",
-    "x_rango_min": -99.09762,
-    "x_rango_max": -99.0913,
-    "curva_inferior": {
-      "grado": 5,
-      "escala": 1e19,
-      "coeficientes": {
-        "a5": 1.805885536e-10,
-        "a4": 8.94770337003622e-8,
-        "a3": 1.77334374701944e-5,
-        "a2": 0.00175729341610217,
-        "a1": 0.087069417721974,
-        "a0": 1.72562724722413
-      }
-    },
-    "curva_superior": {
-      "grado": 5,
-      "escala": 1e19,
-      "coeficientes": {
         "a5": 4.88601056e-11,
         "a4": 2.42090951881039e-8,
         "a3": 4.79802720239723e-6,
@@ -62,3 +31,4 @@
     }
   }
 ]
+
