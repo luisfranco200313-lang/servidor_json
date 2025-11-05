@@ -1,7 +1,7 @@
 [
   {
-    "nombre_ubicacion": "Circuito Interior - Carriles Centrales (Curva)",
-    "velocidad_maxima": 80,
+    "nombre_ubicacion": "Circuito Interior - Carriles Laterales (Curva)",
+    "velocidad_maxima": 40,
     "tipo": "polinomio",
     "x_rango_min": -99.09762,
     "x_rango_max": -99.0913,
